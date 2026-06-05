@@ -1,5 +1,5 @@
 {
-	"version": "1.10.3",
-	"changelog": "## changelog \n- add more female guard voices",
+	"version": "1.10.4",
+	"changelog": "## changelog \n- Fixed an issue in the Saint options where the actor, heroa, and nude settings for the Bangkok Cross bodyguard and the Hawke's Bay bodyguard were mismatched.",
 	"url": "https://github.com/holidays99/Female-Guard/releases/latest/download/Female.Guards.zip"
 }
