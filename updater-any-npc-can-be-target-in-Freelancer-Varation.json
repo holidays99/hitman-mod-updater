@@ -1,8 +1,5 @@
 {
-	"version": "1.1.0",
-	"changelog": "## changelog \n- Bring back The Constant and Kill Switch to Isle of Sgail. \n- Bring back ICA Agents to Berlin. \n- Make Jeff always spawns in the Sandbox The Vector.",
+	"version": "1.2.0",
+	"changelog": "## changelog \n- Add The Wizard in The Disruptor \n- Add The Reflection in the ets Hokkaido (removed the exit in the mirror house) \n- Remove some npcs that can't be normally killed from the target list.",
 	"url": "https://github.com/holidays99/Any-NPC-can-be-target-in-Freelancer-Varation/releases/latest/download/Any.NPC.can.be.target.in.Freelancer.Varation.zip"
 }
-
-
-
