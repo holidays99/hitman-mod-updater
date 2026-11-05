@@ -1,5 +1,5 @@
 {
-	"version": "1.5.1",
-	"changelog": "## changelog \n- Now you have access to ICA facility from the restaurant in the Chongqing Noodle Massacre varation.",
+	"version": "1.6.0",
+	"changelog": "## changelog \n- fix some deploy failure bug due to the update of freelancer varations v2.0 \n- add support for Colorado Harvest Festival and Whittleton Creek Halloween (please read the tooltip) \n- bring back the male perfect subject to Chongqing",
 	"url": "https://github.com/holidays99/Any-NPC-can-be-target-in-Freelancer-Varation/releases/latest/download/Any.NPC.can.be.target.in.Freelancer.Varation.zip"
 }
